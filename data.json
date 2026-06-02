@@ -1,20 +1,26 @@
 [
     {
         "name": "Lucas",
-        "rank": "Master",
-        "lp": 143,
-        "opgg": "https://www.op.gg/summoners/las/Lucas-LAS"
+        "rank": "???",
+        "lp": 0,
+        "opgg": "https://op.gg/es/lol/summoners/las/Lucauchi-1337"
+    },
+    {
+        "name": "Canales",
+        "rank": "???",
+        "lp": 0,
+        "opgg": "https://op.gg/es/lol/summoners/las/CanaIouchi-44444"
     },
     {
         "name": "Juan",
-        "rank": "Diamond II",
-        "lp": 88,
-        "opgg": "https://www.op.gg/summoners/las/Juan-LAS"
+        "rank": "???",
+        "lp": 0,
+        "opgg": "https://op.gg/es/lol/summoners/las/%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%8E%E3%83%83%E3%82%AF%E3%82%B9-69697"
     },
     {
-        "name": "Pedro",
-        "rank": "Emerald I",
-        "lp": 55,
-        "opgg": "https://www.op.gg/summoners/las/Pedro-LAS"
+        "name": "Jorge",
+        "rank": "???",
+        "lp": 0,
+        "opgg": "https://op.gg/es/lol/summoners/las/Faeni-193"
     }
 ]
